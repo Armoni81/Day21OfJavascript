@@ -1,3 +1,5 @@
+
+//https://www.codewars.com/kata/576bb71bbbcf0951d5000044/solutions
 //Given an array of integers.
 
 //Return an array, where the first element is the count of positives numbers 
